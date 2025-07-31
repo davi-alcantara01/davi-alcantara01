@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Davi! 👋</h1>
 
-<!--
-**davi-alcantara01/davi-alcantara01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Estudante de Ciência da Computação na UNIOESTE <br/>
+  👨‍💻 Desenvolvedor Júnior em formação | Foco em Web e Back-end <br/>
+  🚀 Buscando meu primeiro estágio para crescer com desafios reais
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Sobre mim
+
+Sou estudante do 1º período de Ciência da Computação com interesse em desenvolvimento de software, especialmente aplicações web. Estou construindo meu portfólio com projetos pessoais e APIs, sempre buscando aprender novas tecnologias e boas práticas.
+- 🎯 Objetivo atual: meu primeiro estágio como dev!
+
+---
+
+## 🛠️ Tecnologias 
+- **Linguagens:** JavaScript, Python, C
+- **Web:** HTML5, CSS3, Vue.js, Node.js, Express
+- **Banco de Dados:** MySQL, MongoDB (básico)
+- **Ferramentas:** Git, GitHub, VS Code, Figma
+- **Sistema Operacional:** Linux (Pop!_OS / Arch Linux + Hyprland)
+
+---
+
+## 📫 Onde me encontrar
+
+- ✉️ E-mail: **davi.alcantara.ofc@gmail.com**
+- 🔗 GitHub: [davi-alcantara01](https://github.com/davi-alcantara01)
+- 🌎 Foz do Iguaçu - PR, Brasil
+
+---
+
+<p align="center">Obrigado por visitar meu perfil! 🚀</p>
