@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Estudante de Ciência da Computação na UNIOESTE <br/>
-  👨‍💻 Desenvolvedor Júnior em formação | Foco em Web e Back-end <br/>
+  👨‍💻 Desenvolvedor Júnior em formação <br/>
   🚀 Buscando meu primeiro estágio para crescer com desafios reais
 </p>
 
@@ -19,8 +19,7 @@ Sou estudante do 1º período de Ciência da Computação com interesse em desen
 - **Linguagens:** JavaScript, Python, C
 - **Web:** HTML5, CSS3, Vue.js, Node.js, Express
 - **Banco de Dados:** MySQL, MongoDB (básico)
-- **Ferramentas:** Git, GitHub, VS Code, Figma
-- **Sistema Operacional:** Linux (Pop!_OS / Arch Linux + Hyprland)
+- **Ferramentas:** Git, GitHub, VS Code, Postman
 
 ---
 
